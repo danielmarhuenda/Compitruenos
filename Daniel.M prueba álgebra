@@ -1,0 +1,18 @@
+Álgebra Aplicaciones Lineales.
+Cambiar de espacios vectoriales o de subespacios.
+V1 ----> V2
+
+Para que sea aplicación lineal tiene que cumplirse:
+f(u+v) = f(u) + f(v)
+f(λu) = λf(u)
+f(0) = 0
+
+Nucleo de f:
+Se escribe Kerf. Son los puntos de V1 que en V2 son 0.
+
+Imagen de f:
+Se escribe Imf. Son los puntos de V2 a los que es capaz de llegar V1.
+
+Si el Kerf es solamente 0 la aplicación es inyectiva. (no hay más valores en V1 que en V2 son 0)
+Si la imf es igual a V2 la aplicación es sobreyectiva. (No hay puntos de V2 a los que no llega V1)
+Si la aplicación es inyectiva y sobreyectiva esta es biyectiva.
