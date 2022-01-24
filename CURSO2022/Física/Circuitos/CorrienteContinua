@@ -16,3 +16,8 @@ I se mantiene en serie. V = I*R
 I se divide en paralelo. I = I1 + I2.
 V se mantiene en paralelo. I1 = V/R1
 
+Circuitos con varias pilas:
+Haces un recorrido.
+Sumas las pilas si van a la dirección de la corriente, restas si van al revés.
+Multipliplicas la resistencia por la dirección al contrario.(Si vas al mismo sentido que I, restas R).
+Sistema de ecuaciones, una I es la suma de otras.
