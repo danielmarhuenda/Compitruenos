@@ -52,8 +52,9 @@ Para el uso que haremos de este repositorio, nos interesa conocer el **uso bási
 ---
 
 
-> **Referencias y contenidos extra:**
-> 
+**Referencias y contenidos extra:**
+
+
 > - [Guía básica de Git.](https://bluuweb.github.io/tutorial-github/01-fundamentos/#%C2%BFque-es-git)
 > - [Guía básica del uso de ramas.](https://www.youtube.com/watch?v=tFr0Vg1q9Eg)
 > - [Sintaxis básica del lenguaje Markdown.](https://www.markdownguide.org/cheat-sheet/)
