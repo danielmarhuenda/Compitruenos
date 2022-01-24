@@ -1,5 +1,18 @@
 Circuitos de corriente continua:
-V = Voltaje
+V = Diferencia de Potencial
 I = Intensidad
 R = Resistencia
 V = I*R es la fórmula más importante del tema.
+
+1º Paso: Juntar resistencias.
+En serie se suman las resistencias
+En paralelo 1/rT = 1/r1 + 1/r2
+
+2º Paso: Intensidad.
+Cuando solo hay una resistencia, I = V/R 
+
+3º Paso: Separar resistencias.
+I se mantiene en serie. V = I*R 
+I se divide en paralelo. I = I1 + I2.
+V se mantiene en paralelo. I1 = V/R1
+
