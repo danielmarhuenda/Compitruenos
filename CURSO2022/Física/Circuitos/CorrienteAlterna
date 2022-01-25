@@ -1,5 +1,5 @@
 Circuitos de corriente alterna:
-a+bi 
+números complejos: a+bi 
 a = parte real = resistencia
 b = parte imaginaria = delay de la onda
 
@@ -7,3 +7,11 @@ ZR = Resistencia por resistencia
 ZC = Resistencia por condensador
 ZL = Resistencia por Inductor (bobina)
 
+Forma recangular:
+z1 = a+bi
+z2 = c+di
+z1+z2 = (a+c) + (b+d)i 
+
+Forma polar:
+r = √(a²+b²)
+θ = ángulo = a*tan(b/a)
