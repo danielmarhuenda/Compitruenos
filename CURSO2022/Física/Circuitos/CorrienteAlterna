@@ -7,11 +7,22 @@ ZR = Resistencia por resistencia
 ZC = Resistencia por condensador
 ZL = Resistencia por Inductor (bobina)
 
-Forma recangular:
+Forma rectangular:
 z1 = a+bi
 z2 = c+di
 z1+z2 = (a+c) + (b+d)i 
+z1-z2 = (a-c) + (b-d)i
+z1*z2 = (a*c - b*d) + (a*d + b*c)i
 
-Forma polar:
-r = √(a²+b²)
-θ = ángulo = a*tan(b/a)
+z1/z2: Quitar las i del denominador y dividir normal. 
+ 
+real = ((a * c) + (b * d)) / (c² + d²)
+imaginario = ((b * c) - (a * d)) / (c² + d²)
+Ejemplo:
+(2+3i)/(4+5i):
+
+2+3i   (2+3i)*(4-5i)   (8+15) + (-10+12)i    24 + 2i     24     2
+---- = ------------  = ------------------ = --------- = ---- + ----i
+4+5i   (4+5i)*(4-5i)       4² + 5²             41        41     41
+
+Forma polar no me apetece usarla, puedo multiplicar y dividir en rectangular
